@@ -1,0 +1,13 @@
+#output {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 38px;
+  box-shadow: 5px 5px 5px;
+  border-radius: 5px;
+  border: solid grey 1px;
+  width: 100%;
+}
+
+input {
+  width: 20%;
+}
